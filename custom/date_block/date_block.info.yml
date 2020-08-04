@@ -1,0 +1,7 @@
+name: Days Left Block
+type: module
+description: Defines a custom block that shows the number of days left until an event starts.
+core: 8.x
+package: Custom
+dependencies:
+  - block
